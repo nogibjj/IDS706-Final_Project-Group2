@@ -1,2 +1,3 @@
 # IDS706-Final_Project-Group2
-Beibei Du
+TimeLine
+- 12/6: cleaned the dataset and EDA
