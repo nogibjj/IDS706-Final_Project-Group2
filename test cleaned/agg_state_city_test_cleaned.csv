@@ -1,0 +1,881 @@
+state,city,transactions amount,Fraud count,Fraud amount
+AK,Craig,11641.22,14,11641.22
+AK,Huslia,12029.58,0,0.0
+AK,Wales,42401.14,0,0.0
+AL,Bay Minette,41160.57,7,4329.59
+AL,Bessemer,61512.34,8,6302.32
+AL,Birmingham,75746.95,11,8082.66
+AL,Brantley,27801.32,0,0.0
+AL,Cleveland,46196.7,0,0.0
+AL,Dadeville,15001.73,0,0.0
+AL,Eldridge,42816.37,0,0.0
+AL,Fairhope,15537.94,0,0.0
+AL,Gadsden,91037.33,10,6590.18
+AL,Grand Bay,33655.35,8,5026.96
+AL,Grant,51209.44,0,0.0
+AL,Hartford,18350.69,9,3948.15
+AL,Huntsville,90468.63,0,0.0
+AL,Jones,74722.79,0,0.0
+AL,Mobile,94169.48,0,0.0
+AL,Montgomery,29688.53,0,0.0
+AL,Mount Hope,50898.72,0,0.0
+AL,Paint Rock,39468.14,0,0.0
+AL,Phenix City,80656.76,0,0.0
+AL,Phil Campbell,31264.67,0,0.0
+AL,Plantersville,48575.69,0,0.0
+AL,Ragland,13354.09,0,0.0
+AL,Sardis,12596.41,0,0.0
+AL,Woodville,42032.17,10,2194.65
+AR,Ash Flat,42624.88,0,0.0
+AR,Bauxite,121404.82,0,0.0
+AR,Cherokee Village,59245.56,0,0.0
+AR,Cord,59339.98,0,0.0
+AR,De Queen,12656.44,0,0.0
+AR,De Witt,116875.65,0,0.0
+AR,Enola,53757.33,0,0.0
+AR,Gregory,30354.19,0,0.0
+AR,Haynes,28978.73,0,0.0
+AR,Lepanto,13286.58,0,0.0
+AR,Norman,97852.48,0,0.0
+AR,Pea Ridge,18766.31,10,4656.0199999999995
+AR,Smackover,45654.840000000004,10,5110.31
+AR,Texarkana,39474.65,0,0.0
+AR,Thida,103836.22,0,0.0
+AR,Viola,39449.39,14,6838.89
+AR,Walnut Ridge,114717.93000000001,0,0.0
+AR,Winslow,29674.46,0,0.0
+AZ,Humboldt,16292.98,0,0.0
+AZ,Paradise Valley,32534.86,12,7888.13
+AZ,Parks,27842.06,0,0.0
+AZ,Phoenix,169228.29,15,6231.7
+AZ,Superior,102003.4,0,0.0
+CA,Azusa,21971.9,11,4449.24
+CA,Blairsden-Graeagle,25269.81,0,0.0
+CA,Carlotta,58757.9,15,8601.33
+CA,Claremont,13493.43,0,0.0
+CA,Corona,26598.99,0,0.0
+CA,Daly City,60848.35,0,0.0
+CA,Fiddletown,78966.17,0,0.0
+CA,Fields Landing,35448.31,0,0.0
+CA,Glendale,73984.91,9,4975.3
+CA,Greenview,35601.04,0,0.0
+CA,Grenada,36339.79,0,0.0
+CA,Hawthorne,37956.02,0,0.0
+CA,Helm,88205.49,0,0.0
+CA,Huntington Beach,20171.64,0,0.0
+CA,Indian Wells,40509.03,0,0.0
+CA,June Lake,39493.48,0,0.0
+CA,Laguna Hills,50295.27,0,0.0
+CA,Lakeport,88279.74,13,2466.89
+CA,Los Angeles,12853.02,0,0.0
+CA,Mountain Center,30665.420000000002,8,1985.7900000000002
+CA,Napa,89194.09,0,0.0
+CA,Newhall,139201.08,0,0.0
+CA,Norwalk,70390.87,0,0.0
+CA,Oakland,40067.39,0,0.0
+CA,Palmdale,19466.65,11,6560.1
+CA,Parker Dam,21799.1,0,0.0
+CA,Port Costa,59643.82,0,0.0
+CA,Sacramento,50829.18,0,0.0
+CA,San Diego,80561.72,0,0.0
+CA,San Jose,44299.79,0,0.0
+CA,Santa Monica,42223.99,9,5956.41
+CA,Smith River,22361.63,0,0.0
+CA,Sun City,117944.1,0,0.0
+CA,Tomales,56614.02,0,0.0
+CA,Vinton,27122.43,0,0.0
+CA,Wendel,11361.69,0,0.0
+CO,Arvada,11966.75,0,0.0
+CO,Aurora,14340.210000000001,0,0.0
+CO,Broomfield,12174.64,0,0.0
+CO,Colorado Springs,63371.58,0,0.0
+CO,Dumont,66680.35,0,0.0
+CO,Iliff,26293.92,0,0.0
+CO,Kirk,30749.18,0,0.0
+CO,Littleton,112688.9,2,150.04000000000002
+CO,Meredith,50699.09,0,0.0
+CO,Parker,14503.31,0,0.0
+CO,Pueblo,23919.68,0,0.0
+CO,Red Cliff,19685.85,0,0.0
+CT,East Canaan,71508.76,11,7504.02
+CT,Higganum,31835.23,0,0.0
+CT,Marion,25042.46,0,0.0
+CT,Plymouth,56986.11,15,4691.03
+CT,Preston,19804.34,14,5782.2
+DC,Washington,108781.32,10,6640.64
+FL,Bonita Springs,19593.97,3,2207.89
+FL,Brandon,58752.87,0,0.0
+FL,Cape Coral,29698.4,0,0.0
+FL,Clearwater,17358.35,0,0.0
+FL,Deltona,36664.33,3,1753.04
+FL,Fort Myers,91188.63,0,0.0
+FL,Grand Ridge,29489.43,0,0.0
+FL,Haines City,20976.63,0,0.0
+FL,Hampton,18241.59,0,0.0
+FL,Jay,46031.909999999996,16,4679.33
+FL,Key West,52370.46,0,0.0
+FL,Lakeland,106603.18000000001,0,0.0
+FL,Lanark Village,55285.53,0,0.0
+FL,Loxahatchee,53523.11,0,0.0
+FL,Melbourne,26645.73,0,0.0
+FL,Naples,121470.25,0,0.0
+FL,Port Charlotte,26610.61,0,0.0
+FL,Port Richey,26550.24,0,0.0
+FL,Port Saint Lucie,13122.61,0,0.0
+FL,Saint James City,36538.0,0,0.0
+FL,Saint Petersburg,48887.25,0,0.0
+FL,Sebring,118199.53,0,0.0
+FL,Tampa,29725.29,0,0.0
+FL,Titusville,39254.59,10,6339.76
+FL,Umatilla,35307.5,0,0.0
+FL,Vero Beach,55844.78,9,2436.56
+FL,Wauchula,37176.09,12,5317.9400000000005
+FL,West Palm Beach,42072.64,0,0.0
+GA,Allentown,20889.86,13,7934.88
+GA,Alpharetta,56097.21,0,0.0
+GA,Avera,40144.15,0,0.0
+GA,Brinson,30776.22,10,4677.91
+GA,Cuthbert,26452.74,0,0.0
+GA,Darien,44147.17,8,4249.74
+GA,Du Pont,21074.46,0,0.0
+GA,Girard,12747.11,0,0.0
+GA,Hahira,26744.87,0,0.0
+GA,Irwinton,61545.63,0,0.0
+GA,Juliette,56192.0,0,0.0
+GA,Kings Bay,14281.13,0,0.0
+GA,Milner,31325.98,0,0.0
+GA,Norman Park,29280.0,0,0.0
+GA,Sea Island,12812.68,0,0.0
+GA,Springfield,31416.079999999998,0,0.0
+GA,Surrency,56922.79,8,5695.97
+GA,Valdosta,64119.56,3,1095.47
+GA,Varnell,43292.14,7,4484.05
+GA,Vienna,16234.27,0,0.0
+GA,West Green,37103.94,0,0.0
+GA,Whigham,46702.44,9,5481.48
+HI,Honokaa,31855.83,9,6164.72
+HI,Paauilo,33002.42,0,0.0
+IA,Alton,34375.0,0,0.0
+IA,Avoca,54169.35,0,0.0
+IA,Battle Creek,69017.78,0,0.0
+IA,Belmond,42457.4,0,0.0
+IA,Birmingham,76151.77,14,6778.4800000000005
+IA,Clarinda,51034.1,0,0.0
+IA,Clutier,13120.92,5,2311.84
+IA,Curlew,11102.84,0,0.0
+IA,Des Moines,43788.17,12,5537.639999999999
+IA,Early,15934.64,0,0.0
+IA,Elkhart,67830.83,0,0.0
+IA,Hedrick,31402.61,0,0.0
+IA,Lohrville,55855.34,12,7130.91
+IA,Moscow,10906.67,0,0.0
+IA,Moulton,38861.4,0,0.0
+IA,Ollie,39897.19,0,0.0
+IA,Oran,20610.47,0,0.0
+IA,Princeton,40180.25,5,2261.68
+IA,Rockwell,13728.77,0,0.0
+IA,Webster City,16600.85,0,0.0
+IA,Wever,4272.48,6,4272.48
+IA,Whittemore,19291.78,15,6515.12
+ID,Malad City,18261.71,8,3688.14
+ID,Meridian,106595.86,5,2677.6099999999997
+ID,Mesa,51328.27,0,0.0
+ID,Spirit Lake,21519.43,9,4182.42
+IL,Bonfield,33331.56,0,0.0
+IL,Cisco,59647.08,13,8893.06
+IL,Dieterich,39906.16,0,0.0
+IL,Dongola,21996.74,0,0.0
+IL,Eagarville,25261.81,0,0.0
+IL,Eureka,53247.26,10,5567.92
+IL,Galatia,10995.8,0,0.0
+IL,Goreville,34965.42,8,4085.26
+IL,Joliet,55312.0,0,0.0
+IL,Loami,12819.72,0,0.0
+IL,Logan,45203.69,0,0.0
+IL,Lomax,83661.9,15,4563.27
+IL,Mc Nabb,54494.1,0,0.0
+IL,Moro,40062.41,0,0.0
+IL,Mulberry Grove,65050.96,0,0.0
+IL,Murrayville,91780.84,0,0.0
+IL,New Boston,83973.04,8,3155.7200000000003
+IL,New Memphis,10807.69,0,0.0
+IL,Nokomis,22052.12,0,0.0
+IL,Oakford,11712.25,0,0.0
+IL,Olmsted,38302.71,0,0.0
+IL,Payson,38289.71,0,0.0
+IL,Pembroke Township,113598.87,0,0.0
+IL,Putnam,11589.53,0,0.0
+IL,Ringwood,38763.78,0,0.0
+IL,Rossville,16658.9,7,2641.64
+IL,Schaumburg,30477.89,7,2525.0
+IL,Smithfield,19132.09,0,0.0
+IL,Tamaroa,27887.15,0,0.0
+IL,Tower Hill,68989.99,8,4225.58
+IL,Wilmette,50002.72,0,0.0
+IN,Andrews,57309.64,5,1002.07
+IN,Bristow,38233.71,0,0.0
+IN,Carlisle,34138.23,0,0.0
+IN,Central,30117.4,12,4701.29
+IN,Churubusco,29398.4,9,4288.47
+IN,Greenwood,28278.47,0,0.0
+IN,Harrodsburg,47624.62,0,0.0
+IN,Highland,47172.73,9,5218.0
+IN,Indianapolis,136524.54,0,0.0
+IN,Kingsford Heights,102057.92,0,0.0
+IN,Leo,58492.27,0,0.0
+IN,Liberty Mills,12716.34,0,0.0
+IN,Moores Hill,18850.06,7,5307.94
+IN,New Goshen,13340.35,0,0.0
+IN,North Judson,39562.99,0,0.0
+IN,Oolitic,81141.17,14,3974.3
+IN,Prairie Creek,12702.72,0,0.0
+IN,Veedersburg,31860.79,10,3655.42
+IN,Williams,27227.96,9,6805.61
+KS,Burrton,47485.57,19,12002.06
+KS,De Soto,106568.41,0,0.0
+KS,Dexter,12182.76,0,0.0
+KS,Dresden,23829.61,6,4874.62
+KS,Easton,45578.19,0,0.0
+KS,Esbon,68989.99,0,0.0
+KS,Garfield,22820.38,0,0.0
+KS,Holcomb,73682.35,0,0.0
+KS,Hudson,29787.99,0,0.0
+KS,Mc Cracken,36301.09,0,0.0
+KS,Morrowville,7993.74,12,7993.74
+KS,Ozawkie,44174.83,0,0.0
+KS,Topeka,69194.51,0,0.0
+KS,Utica,50438.38,0,0.0
+KS,Wichita,72275.68000000001,0,0.0
+KY,Big Creek,63079.53,0,0.0
+KY,Cadiz,48336.270000000004,10,7663.82
+KY,Cranks,36729.14,0,0.0
+KY,Cromona,52997.0,0,0.0
+KY,Deane,54040.77,0,0.0
+KY,Dubre,27733.3,0,0.0
+KY,Elizabethtown,36815.0,8,6300.08
+KY,Hazel,18023.84,0,0.0
+KY,Irvine,15313.51,0,0.0
+KY,Lexington,7988.02,11,7988.02
+KY,Louisville,63004.15,12,7112.66
+KY,Mallie,57838.04,0,0.0
+KY,Maysville,39101.89,5,2417.7799999999997
+KY,Parkers Lake,27492.3,0,0.0
+KY,Pewee Valley,26163.23,0,0.0
+KY,River,47439.2,7,4853.63
+KY,Rochester,12632.19,0,0.0
+KY,Saint Francis,11141.34,0,0.0
+KY,Smiths Grove,62068.23,14,5839.3
+KY,Stephensport,49625.16,0,0.0
+KY,Westport,98991.93,0,0.0
+LA,Baton Rouge,119660.77,5,844.9599999999999
+LA,Delhi,39289.88,0,0.0
+LA,Denham Springs,65639.04,8,6843.8099999999995
+LA,Egan,80666.82,0,0.0
+LA,Fordoche,53592.84,0,0.0
+LA,Gretna,40370.72,0,0.0
+LA,Kenner,40344.89,0,0.0
+LA,Metairie,38982.65,0,0.0
+LA,Saint Amant,87880.58,9,2560.35
+LA,Spearsville,26232.09,0,0.0
+LA,Tickfaw,32482.54,0,0.0
+LA,West Monroe,35289.43,0,0.0
+MA,Ashfield,21414.07,0,0.0
+MA,Barnstable,52771.74,0,0.0
+MA,Lawrence,74400.65,0,0.0
+MA,Methuen,50911.27,0,0.0
+MA,North Brookfield,11652.53,0,0.0
+MA,Paxton,17346.92,0,0.0
+MA,Sheffield,52164.71,9,2329.63
+MA,Shrewsbury,29060.64,9,4271.17
+MA,Stoneham,14730.46,0,0.0
+MD,Annapolis,22188.38,12,6864.58
+MD,Cecilton,40529.85,0,0.0
+MD,Chester,23075.12,0,0.0
+MD,Corriganville,47156.66,0,0.0
+MD,Gaithersburg,14045.58,0,0.0
+MD,Great Mills,39590.659999999996,8,5277.95
+MD,Hancock,72224.41,12,5690.89
+MD,Harwood,30579.48,7,4198.63
+MD,Kensington,62836.26,0,0.0
+MD,Kingsville,13677.36,0,0.0
+MD,Linthicum Heights,16916.52,7,3438.6400000000003
+MD,Manchester,37604.659999999996,0,0.0
+MD,Pikesville,25442.37,0,0.0
+MD,Queenstown,35373.05,0,0.0
+MD,Scotland,57588.53,0,0.0
+MD,Tuscarora,18683.1,0,0.0
+MD,Tyaskin,57862.41,0,0.0
+MD,Whaleyville,66376.27,0,0.0
+ME,Auburn,43776.19,7,4539.7699999999995
+ME,Bowdoin,59162.29,0,0.0
+ME,Brooklin,40244.45,0,0.0
+ME,East Andover,38392.53,0,0.0
+ME,Kittery Point,21028.46,0,0.0
+ME,Newport,10003.17,0,0.0
+ME,Nobleboro,46917.28,0,0.0
+ME,Parsonsfield,51095.06,0,0.0
+ME,Scarborough,38863.69,0,0.0
+ME,Steuben,57535.38,8,4613.21
+ME,West Bethel,13176.31,0,0.0
+ME,Winthrop,13736.59,0,0.0
+MI,Afton,31796.53,7,3959.95
+MI,Arcadia,37853.2,0,0.0
+MI,Baroda,62345.77,0,0.0
+MI,Bay City,14312.19,0,0.0
+MI,Cedar,39795.0,9,6444.7
+MI,Detroit,104986.4,7,4135.31
+MI,Elberta,67866.84,0,0.0
+MI,Elk Rapids,29996.57,14,9793.38
+MI,Falmouth,49249.58,0,0.0
+MI,Goodrich,125401.89,0,0.0
+MI,Lakeview,26895.67,0,0.0
+MI,Livonia,20321.99,12,8007.19
+MI,Luzerne,31618.81,0,0.0
+MI,Manistique,128573.09,0,0.0
+MI,Mount Clemens,29309.69,0,0.0
+MI,Munith,58263.97,0,0.0
+MI,Muskegon,62709.65,0,0.0
+MI,Oxford,40968.4,0,0.0
+MI,Pointe Aux Pins,77207.63,0,0.0
+MI,Republic,11691.25,0,0.0
+MI,Riverview,20236.95,0,0.0
+MI,Romulus,74747.55,0,0.0
+MI,Rumely,39938.44,0,0.0
+MI,Southfield,56476.5,12,5412.95
+MI,Warren,82148.49,0,0.0
+MI,Wetmore,75264.91,0,0.0
+MN,Afton,27204.13,0,0.0
+MN,Bigelow,10962.2,0,0.0
+MN,Collegeville,21337.25,0,0.0
+MN,Comfrey,55300.05,0,0.0
+MN,Emmons,10601.82,0,0.0
+MN,Georgetown,56150.17,14,4698.79
+MN,Halma,28634.37,0,0.0
+MN,Halstad,33290.38,10,2829.11
+MN,Hawley,42122.56,0,0.0
+MN,Hills,10480.37,0,0.0
+MN,Hovland,33751.63,0,0.0
+MN,Lamberton,61835.26,11,7136.92
+MN,Lonsdale,58405.32,9,6225.97
+MN,Minneapolis,54494.75,0,0.0
+MN,Minnesota Lake,27757.03,0,0.0
+MN,Orr,38684.18,0,0.0
+MN,Randolph,13110.25,0,0.0
+MN,Ranier,101983.7,0,0.0
+MN,Remer,25464.79,11,5470.27
+MN,Rice,3671.1400000000003,8,3671.1400000000003
+MN,Saint Paul,73563.25,0,0.0
+MN,Sauk Rapids,26397.5,0,0.0
+MN,Stanchfield,54397.08,0,0.0
+MN,Watertown,33209.76,10,6048.31
+MN,Winger,55318.44,0,0.0
+MO,Arnold,48845.13,0,0.0
+MO,Ballwin,35309.81,0,0.0
+MO,Blairstown,42163.54,5,2767.1
+MO,Brashear,13727.28,0,0.0
+MO,Browning,39978.48,0,0.0
+MO,Camden,29391.73,14,5803.58
+MO,Cardwell,14882.15,0,0.0
+MO,Centerview,71613.03,0,0.0
+MO,Clarksville,11487.28,0,0.0
+MO,Independence,55077.43,0,0.0
+MO,Kansas City,83431.68,0,0.0
+MO,Kissee Mills,61220.43,0,0.0
+MO,Louisiana,12826.17,0,0.0
+MO,Luray,45589.94,11,7404.52
+MO,Matthews,33521.25,0,0.0
+MO,Meadville,82445.46,0,0.0
+MO,Mound City,61399.0,15,8453.42
+MO,Odessa,20045.42,3,815.4200000000001
+MO,Owensville,22682.87,13,8269.16
+MO,Redford,61543.18,0,0.0
+MO,Rocky Mount,74756.38,0,0.0
+MO,Saint Louis,33745.17,0,0.0
+MO,Seligman,4709.98,10,4709.98
+MO,Syracuse,12253.68,0,0.0
+MO,Unionville,25061.3,0,0.0
+MO,Utica,33071.2,0,0.0
+MO,Wheaton,49894.49,0,0.0
+MO,Williamsburg,19620.52,0,0.0
+MS,Coffeeville,44284.17,0,0.0
+MS,Duncan,21663.0,0,0.0
+MS,Florence,111911.25,0,0.0
+MS,Heidelberg,30125.16,0,0.0
+MS,Jackson,21951.13,8,5610.8
+MS,Mayersville,81017.18,0,0.0
+MS,Meadville,21212.24,12,6807.45
+MS,Moorhead,78334.56,13,7773.17
+MS,Paris,10326.83,0,0.0
+MS,Pearlington,14483.15,0,0.0
+MS,Ridgeland,28402.56,11,3950.54
+MS,Senatobia,6868.06,10,6868.06
+MS,Sontag,51110.41,0,0.0
+MS,Sturgis,33270.63,0,0.0
+MS,Sunflower,10299.33,0,0.0
+MS,University,34273.62,0,0.0
+MT,Alder,40255.54,0,0.0
+MT,Belgrade,71077.15,0,0.0
+MT,Boulder,23628.0,0,0.0
+MT,Bridger,90248.97,12,7161.46
+MT,Heart Butte,71082.69,11,3536.4900000000002
+MT,Sula,48165.2,0,0.0
+MT,Turner,47151.04,14,6863.58
+NC,Andrews,41211.93,0,0.0
+NC,Bailey,46036.88,0,0.0
+NC,Bolton,50747.44,0,0.0
+NC,Collettsville,60860.55,0,0.0
+NC,Creedmoor,73798.59,12,5432.4
+NC,Fayetteville,71836.54,0,0.0
+NC,Gibsonville,26787.81,0,0.0
+NC,Grifton,4729.57,10,4729.57
+NC,Grimesland,44708.76,0,0.0
+NC,Grover,98186.06,6,2198.38
+NC,Haw River,64080.16,0,0.0
+NC,Mooresville,38808.79,0,0.0
+NC,Moravian Falls,84465.95,11,4499.14
+NC,North Wilkesboro,97438.66,0,0.0
+NC,Pelham,29181.079999999998,7,3254.13
+NC,Pembroke,48968.86,0,0.0
+NC,Summerfield,14511.48,0,0.0
+NC,Wilmington,103898.2,0,0.0
+ND,Christine,36139.44,0,0.0
+ND,Coleharbor,56422.64,0,0.0
+ND,Michigan,11000.91,0,0.0
+ND,Noonan,54406.11,0,0.0
+ND,Palermo,62269.1,0,0.0
+ND,Reynolds,34636.9,16,8514.77
+ND,Rhame,43685.04,0,0.0
+ND,Shields,66317.52,0,0.0
+ND,Wilton,54326.86,11,5895.06
+NE,Brainard,11237.77,0,0.0
+NE,Campbell,39849.47,0,0.0
+NE,Carroll,38937.77,0,0.0
+NE,Fullerton,42029.4,0,0.0
+NE,Holstein,43706.08,0,0.0
+NE,Hooper,48220.9,8,4004.33
+NE,Howells,42689.68,0,0.0
+NE,Manley,36715.67,0,0.0
+NE,Nelson,29614.98,0,0.0
+NE,North Loup,54190.5,0,0.0
+NE,Omaha,10675.81,0,0.0
+NE,Ravenna,18823.58,0,0.0
+NE,Roseland,31169.32,0,0.0
+NE,Sprague,17265.35,13,8345.81
+NE,Sutherland,77423.85,15,6990.62
+NE,Valentine,18858.73,0,0.0
+NE,Weeping Water,26379.03,0,0.0
+NE,Westerville,57051.35,0,0.0
+NH,Acworth,80383.39,0,0.0
+NH,Belmont,38105.47,12,5489.25
+NH,Center Tuftonboro,26432.23,0,0.0
+NH,Conway,53406.39,0,0.0
+NH,Grantham,33441.64,0,0.0
+NH,Jaffrey,19538.66,8,5629.41
+NH,Newton,13288.26,0,0.0
+NH,North Haverhill,12442.0,0,0.0
+NJ,Allenhurst,25021.18,0,0.0
+NJ,Boonton,34401.75,0,0.0
+NJ,Bridgeport,58649.76,0,0.0
+NJ,Elizabeth,59082.39,0,0.0
+NJ,Fairview,40904.61,0,0.0
+NJ,Greenwich,49001.83,0,0.0
+NJ,Harrington Park,42100.83,0,0.0
+NJ,Heislerville,35099.1,15,7709.97
+NJ,Iselin,14212.26,0,0.0
+NJ,Matawan,51365.78,0,0.0
+NJ,Monmouth Beach,65812.28,9,8282.32
+NJ,Ogdensburg,47392.42,0,0.0
+NJ,Plainfield,108651.71,0,0.0
+NJ,Richland,25512.33,9,6118.2
+NJ,Stirling,42507.33,10,3544.3599999999997
+NJ,West Long Branch,13802.78,0,0.0
+NM,Albuquerque,35643.67,0,0.0
+NM,Crownpoint,26161.87,0,0.0
+NM,Espanola,58871.39,0,0.0
+NM,High Rolls Mountain Park,52193.43,0,0.0
+NM,Kirtland,8598.82,10,8598.82
+NM,Kirtland Afb,28396.73,0,0.0
+NM,Lamy,11365.68,0,0.0
+NM,Llano,30797.8,8,4069.01
+NM,Loving,24366.89,11,6609.47
+NM,Moriarty,57169.53,0,0.0
+NM,Red River,63798.14,0,0.0
+NM,Ruidoso,34842.55,10,4590.67
+NV,North Las Vegas,12782.57,0,0.0
+NV,Reno,67925.45,0,0.0
+NV,Ruth,37617.04,0,0.0
+NV,Washoe Valley,12752.53,0,0.0
+NY,Albany,25857.54,0,0.0
+NY,Allentown,25165.49,0,0.0
+NY,Altona,50456.09,0,0.0
+NY,Armonk,28521.47,0,0.0
+NY,Barneveld,43477.08,0,0.0
+NY,Belfast,39605.84,0,0.0
+NY,Bellmore,89116.74,0,0.0
+NY,Big Indian,37837.11,0,0.0
+NY,Breesport,47986.16,0,0.0
+NY,Bronx,49784.15,0,0.0
+NY,Brooklyn,42455.3,0,0.0
+NY,Brownville,56594.34,0,0.0
+NY,Camden,31790.59,0,0.0
+NY,Chatham,23221.56,16,5784.76
+NY,Cottekill,87891.61,15,6378.95
+NY,Cowlesville,37048.96,0,0.0
+NY,De Lancey,17221.86,0,0.0
+NY,Downsville,24802.07,0,0.0
+NY,East Rochester,13693.1,0,0.0
+NY,Falconer,49383.7,11,7840.88
+NY,Farmington,50721.46,9,5586.08
+NY,Garrattsville,57204.83,0,0.0
+NY,Hannawa Falls,69010.35,0,0.0
+NY,Howes Cave,13865.92,0,0.0
+NY,Hudson,56657.57,0,0.0
+NY,Jefferson,38893.56,0,0.0
+NY,Jordanville,22901.079999999998,0,0.0
+NY,Kirkwood,9874.94,12,9874.94
+NY,Knowlesville,12945.97,0,0.0
+NY,Lowville,67189.53,0,0.0
+NY,Margaretville,59811.37,0,0.0
+NY,Montrose,31019.5,0,0.0
+NY,Moriches,22833.98,0,0.0
+NY,Mount Morris,41049.9,0,0.0
+NY,New York City,88372.88,12,8050.96
+NY,Newark Valley,41997.6,0,0.0
+NY,North Tonawanda,34155.4,0,0.0
+NY,Northport,18492.43,10,5325.11
+NY,Oak Hill,62411.05,0,0.0
+NY,Oakdale,11517.72,0,0.0
+NY,Orangeburg,61887.9,0,0.0
+NY,Orient,14976.91,4,2976.87
+NY,Oriskany Falls,26084.14,5,1263.51
+NY,Palmyra,15460.16,0,0.0
+NY,Pomona,35778.37,11,6760.950000000001
+NY,Port Ewen,49850.16,13,9529.37
+NY,Port Gibson,38617.25,4,2194.12
+NY,Rock Tavern,52859.04,0,0.0
+NY,Saint Bonaventure,80892.55,0,0.0
+NY,Shelter Island,58710.23,0,0.0
+NY,South Richmond Hill,14014.28,0,0.0
+NY,Springfield Gardens,13765.88,0,0.0
+NY,Springville,6463.8,12,6463.8
+NY,Stittville,17344.76,0,0.0
+NY,Tupper Lake,116799.63,0,0.0
+NY,West Chazy,14461.49,0,0.0
+NY,West Eaton,33671.69,13,6267.71
+NY,West Harrison,51251.74,9,5656.28
+NY,West Henrietta,54860.23,11,8013.5
+NY,West Sayville,96925.22,8,1778.89
+NY,Westhampton Beach,42228.42,0,0.0
+OH,Akron,18512.11,9,7182.18
+OH,Amanda,54892.65,0,0.0
+OH,Amsterdam,24141.97,0,0.0
+OH,Arcadia,13029.62,0,0.0
+OH,Beaverdam,39842.98,0,0.0
+OH,Bethel,22296.79,0,0.0
+OH,Bowersville,44527.9,0,0.0
+OH,Canton,36661.54,0,0.0
+OH,Clay Center,44075.78,0,0.0
+OH,Creola,36287.29,0,0.0
+OH,Cuyahoga Falls,41049.57,0,0.0
+OH,Dayton,20449.93,0,0.0
+OH,Diamond,91414.04,6,1963.02
+OH,Fulton,66121.08,0,0.0
+OH,Greenville,23637.55,0,0.0
+OH,Hinckley,109957.61,0,0.0
+OH,Holloway,43252.99,4,1913.83
+OH,Ironton,14752.92,0,0.0
+OH,Kirby,53538.63,0,0.0
+OH,Lima,41235.07,0,0.0
+OH,Lithopolis,18181.67,0,0.0
+OH,Mansfield,46638.54,0,0.0
+OH,Maria Stein,17547.76,10,6405.03
+OH,Miamisburg,33269.08,0,0.0
+OH,Milford,54968.74,0,0.0
+OH,Mount Perry,37814.64,0,0.0
+OH,Mount Saint Joseph,81583.01,0,0.0
+OH,Norwalk,27020.52,0,0.0
+OH,Norwich,34012.76,10,5616.4
+OH,Paulding,39580.95,0,0.0
+OH,Randolph,24491.12,0,0.0
+OH,Rosewood,12353.83,0,0.0
+OH,Thornville,17208.04,0,0.0
+OH,Warren,31493.420000000002,0,0.0
+OH,Washington Court House,40024.21,0,0.0
+OH,Waynesfield,12443.25,0,0.0
+OH,Zaleski,59080.409999999996,0,0.0
+OK,Achille,9511.0,0,0.0
+OK,Amorita,12451.92,0,0.0
+OK,Burbank,34868.74,0,0.0
+OK,Burns Flat,20733.64,0,0.0
+OK,Clayton,54678.64,0,0.0
+OK,Coyle,39370.5,13,4461.08
+OK,Edmond,66833.53,10,5033.75
+OK,Guthrie,4175.17,9,4175.17
+OK,Lahoma,104771.7,0,0.0
+OK,Lane,18490.02,8,5339.28
+OK,Mounds,39693.55,0,0.0
+OK,Mountain Park,57095.62,0,0.0
+OK,Oklahoma City,29717.9,0,0.0
+OK,Roosevelt,57215.19,8,4335.0199999999995
+OK,Stillwater,34861.840000000004,0,0.0
+OK,Thomas,42134.66,9,3648.18
+OK,Tryon,26037.63,0,0.0
+OK,Tulsa,95763.65,0,0.0
+OR,Athena,58367.49,0,0.0
+OR,Bay City,14348.45,0,0.0
+OR,Cascade Locks,51874.0,8,1912.21
+OR,Eugene,42177.29,0,0.0
+OR,Gardiner,37706.78,0,0.0
+OR,Jordan Valley,19947.49,0,0.0
+OR,Kent,23521.23,0,0.0
+OR,Lake Oswego,58048.97,7,1723.4099999999999
+OR,Lowell,39894.92,0,0.0
+OR,Newberg,28425.77,9,4718.91
+OR,Portland,33015.79,12,6249.570000000001
+OR,Powell Butte,11623.15,0,0.0
+OR,Scotts Mills,24066.37,0,0.0
+OR,Shedd,11539.55,0,0.0
+OR,Sixes,28253.87,0,0.0
+OR,Stayton,33276.45,12,8195.869999999999
+OR,Westfir,13957.86,0,0.0
+PA,Allentown,37070.74,0,0.0
+PA,Armagh,53633.92,0,0.0
+PA,Atglen,29284.42,0,0.0
+PA,Beaver Falls,33118.53,0,0.0
+PA,Bolivar,46700.4,10,8202.95
+PA,Bristol,64178.7,15,5459.44
+PA,Chester Heights,35057.74,0,0.0
+PA,Clarks Mills,115027.66,18,10956.0
+PA,Clune,40664.1,0,0.0
+PA,Cochranton,69971.86,0,0.0
+PA,Cokeburg,81592.65,0,0.0
+PA,Corsica,46686.7,0,0.0
+PA,Cressona,27558.03,11,3573.3
+PA,Dublin,15347.33,0,0.0
+PA,Dunlevy,46603.36,0,0.0
+PA,Emporium,34223.57,0,0.0
+PA,Fenelton,97126.58,0,0.0
+PA,Glen Rock,24590.56,0,0.0
+PA,Grassflat,46183.87,0,0.0
+PA,Harborcreek,39273.08,0,0.0
+PA,Harmony,16207.630000000001,0,0.0
+PA,Irvine,22907.24,0,0.0
+PA,Jermyn,58818.06,0,0.0
+PA,Keisterville,52720.74,11,3899.88
+PA,Lawn,43381.12,0,0.0
+PA,Leetsdale,51669.37,11,8084.12
+PA,Manor,28539.65,0,0.0
+PA,Marienville,41915.85,0,0.0
+PA,Mc Clellandtown,13244.89,0,0.0
+PA,Mc Veytown,41691.38,0,0.0
+PA,Mifflin,55011.69,0,0.0
+PA,Mill Creek,37605.0,0,0.0
+PA,Montandon,59922.17,0,0.0
+PA,Morrisdale,102818.42,7,3702.21
+PA,North Washington,52423.02,0,0.0
+PA,Oaks,58742.53,0,0.0
+PA,Philadelphia,136926.46,0,0.0
+PA,Pittsburgh,40919.7,0,0.0
+PA,Rock Glen,22446.14,0,0.0
+PA,Rockwood,25932.1,0,0.0
+PA,Schaefferstown,82415.81,0,0.0
+PA,Shippingport,79979.4,0,0.0
+PA,Skytop,12532.67,0,0.0
+PA,Smock,43425.49,0,0.0
+PA,Spring Church,54258.76,8,5482.1900000000005
+PA,Uledi,77203.89,13,7135.6900000000005
+PA,Utica,63804.89,0,0.0
+PA,Vanderbilt,26770.17,0,0.0
+PA,West Decatur,22064.05,0,0.0
+PA,West Finley,24427.22,10,6311.83
+RI,Providence,7330.92,0,0.0
+SC,Arcadia,54181.64,12,4011.35
+SC,Blackville,40931.85,0,0.0
+SC,Bradley,75465.71,16,6832.72
+SC,Brunson,71830.44,0,0.0
+SC,Cassatt,15060.74,0,0.0
+SC,Clifton,22040.920000000002,0,0.0
+SC,Columbia,39611.56,0,0.0
+SC,Cross,9141.44,0,0.0
+SC,Edisto Island,103439.65,0,0.0
+SC,Ehrhardt,11020.43,0,0.0
+SC,Hopkins,38247.0,0,0.0
+SC,Johns Island,53234.42,0,0.0
+SC,Marietta,13834.79,0,0.0
+SC,Monetta,16684.94,0,0.0
+SC,New Ellenton,33117.12,0,0.0
+SC,North Augusta,38422.75,0,0.0
+SC,Prosperity,48620.53,15,4234.21
+SC,Scotia,46208.3,0,0.0
+SC,West Columbia,38007.53,0,0.0
+SD,Barnard,27495.64,7,3584.38
+SD,Belle Fourche,24554.98,0,0.0
+SD,Deadwood,44241.76,0,0.0
+SD,Ferney,22469.27,0,0.0
+SD,Fulton,51658.75,0,0.0
+SD,Hurley,21914.04,0,0.0
+SD,Manderson,78994.36,0,0.0
+SD,Mc Intosh,24525.4,11,6419.59
+SD,Spencer,66598.49,0,0.0
+TN,Apison,12261.85,0,0.0
+TN,Bethel Springs,26087.51,0,0.0
+TN,Clarksville,37181.84,0,0.0
+TN,Grand Junction,64247.48,12,4934.96
+TN,Heiskell,45215.22,0,0.0
+TN,Kingsport,35739.1,0,0.0
+TN,Knoxville,90872.78,0,0.0
+TN,Murfreesboro,58298.52,0,0.0
+TN,Oakland,26572.36,7,2986.06
+TN,Old Hickory,19226.47,0,0.0
+TN,Powell,41890.38,0,0.0
+TN,Slayden,27218.170000000002,0,0.0
+TN,Tiptonville,29248.47,0,0.0
+TX,Aledo,25027.14,0,0.0
+TX,Altair,48367.72,0,0.0
+TX,Beasley,36853.47,0,0.0
+TX,Blooming Grove,59492.96,0,0.0
+TX,Bynum,15862.34,0,0.0
+TX,Camden,23130.84,13,6822.45
+TX,Cleveland,49452.659999999996,0,0.0
+TX,Coleman,39357.6,0,0.0
+TX,Cross Plains,25344.05,0,0.0
+TX,Dallas,119319.71,12,6824.7
+TX,Dell City,17365.3,10,2916.9
+TX,Desdemona,26324.25,9,4916.74
+TX,El Paso,11329.69,0,0.0
+TX,Falls City,25810.75,0,0.0
+TX,Gainesville,13380.13,0,0.0
+TX,Grandview,119567.06,0,0.0
+TX,Harper,85769.69,0,0.0
+TX,Hedley,26114.04,0,0.0
+TX,Holliday,50824.79,0,0.0
+TX,Houston,142904.06,0,0.0
+TX,Humble,30406.13,0,0.0
+TX,Karnack,43310.93,0,0.0
+TX,Keller,36920.73,0,0.0
+TX,Kilgore,57387.090000000004,0,0.0
+TX,Lake Jackson,51415.42,0,0.0
+TX,Laredo,38902.32,0,0.0
+TX,Leonard,96580.44,15,4927.9
+TX,Lolita,40613.09,0,0.0
+TX,Lorenzo,27852.34,12,6669.03
+TX,Lubbock,29537.37,0,0.0
+TX,Marathon,48167.2,0,0.0
+TX,May,51793.51,0,0.0
+TX,Meridian,94417.31,0,0.0
+TX,Nazareth,78473.73,0,0.0
+TX,New Waverly,39233.43,0,0.0
+TX,Notrees,51412.06,2,867.49
+TX,O Brien,48425.23,0,0.0
+TX,Pecos,13545.41,0,0.0
+TX,Prairie Hill,53513.0,0,0.0
+TX,Purmela,38739.1,0,0.0
+TX,Quanah,27511.58,0,0.0
+TX,Ratcliff,53350.28,0,0.0
+TX,Roma,104324.79,0,0.0
+TX,Rule,41026.41,0,0.0
+TX,Sachse,71678.85,7,3111.53
+TX,San Angelo,14363.33,0,0.0
+TX,San Antonio,108354.4,0,0.0
+TX,Sherman,91785.97,2,1173.88
+TX,Spring,14867.689999999999,0,0.0
+TX,Sterling City,27251.87,0,0.0
+TX,Summerfield,62937.48,0,0.0
+TX,Thrall,71083.05,12,5685.68
+TX,Trenton,13243.69,7,1792.65
+TX,Tyler,74672.37,0,0.0
+TX,Zavalla,47801.39,12,6601.45
+UT,Altonah,44860.29,0,0.0
+UT,American Fork,36645.92,0,0.0
+UT,Hatch,39681.71,0,0.0
+UT,Mendon,25049.83,0,0.0
+UT,Moab,45023.91,0,0.0
+UT,Thompson,74646.81,0,0.0
+UT,Woods Cross,20281.72,0,0.0
+VA,Alexandria,24448.52,0,0.0
+VA,Arlington,45270.12,12,8308.8
+VA,Atlantic,77094.81,0,0.0
+VA,Basye,47986.590000000004,0,0.0
+VA,Burke,49273.78,7,5638.030000000001
+VA,Catawba,47737.22,0,0.0
+VA,Damascus,11343.23,0,0.0
+VA,Doe Hill,86612.62,13,7262.56
+VA,Drakes Branch,59343.79,7,2180.0
+VA,Edinburg,24212.52,0,0.0
+VA,Etlan,24124.28,12,4186.53
+VA,Falls Church,41709.43,7,4253.58
+VA,Ford,48888.26,7,4133.0
+VA,Glade Spring,20851.35,0,0.0
+VA,Greenbush,20142.28,10,5790.28
+VA,Hampton,14065.82,0,0.0
+VA,Hopewell,16269.08,0,0.0
+VA,Lebanon,40346.73,0,0.0
+VA,Manquin,15744.09,0,0.0
+VA,Ruckersville,59283.22,0,0.0
+VA,Springfield,46967.3,0,0.0
+VA,Timberville,46441.13,0,0.0
+VT,Brandon,93680.45,0,0.0
+VT,Graniteville,80629.08,0,0.0
+VT,Hinesburg,63577.35,0,0.0
+VT,South Hero,40070.68,0,0.0
+VT,South Londonderry,30524.39,0,0.0
+VT,West Hartford,79933.04,0,0.0
+WA,Ashford,24537.6,0,0.0
+WA,Burbank,100004.73,0,0.0
+WA,Burlington,75106.84,0,0.0
+WA,Colton,27171.67,0,0.0
+WA,Conway,62861.01,0,0.0
+WA,Issaquah,93743.46,11,4493.65
+WA,Monitor,12152.18,0,0.0
+WA,Orient,81146.29,7,2462.31
+WA,Seattle,6267.82,9,6267.82
+WA,Tekoa,82505.58,0,0.0
+WA,Vancouver,20735.13,3,2369.41
+WI,Adams,20631.64,12,8118.71
+WI,Bagley,57097.2,0,0.0
+WI,Benton,14506.97,3,2356.01
+WI,Boyd,22372.06,8,3837.62
+WI,Bryant,20626.03,0,0.0
+WI,Cazenovia,66339.2,12,5208.63
+WI,Dalton,12875.45,0,0.0
+WI,East Troy,24873.32,0,0.0
+WI,Greendale,53684.11,0,0.0
+WI,Hewitt,85636.41,0,0.0
+WI,Milwaukee,29172.77,0,0.0
+WI,New Franken,17969.99,9,6172.33
+WI,New Holstein,63496.98,0,0.0
+WI,North Prairie,49731.83,0,0.0
+WI,Oconto Falls,43413.47,0,0.0
+WI,Saxon,78965.64,0,0.0
+WI,Seneca,35887.62,0,0.0
+WI,Tomahawk,29141.81,0,0.0
+WI,Waukesha,42834.99,12,7643.54
+WI,Waupaca,60231.5,9,6702.639999999999
+WI,Winter,28495.52,0,0.0
+WI,Wittenberg,15778.06,0,0.0
+WV,Cass,42621.56,0,0.0
+WV,Center Point,36726.98,0,0.0
+WV,Comfort,36971.54,0,0.0
+WV,Daniels,12838.53,0,0.0
+WV,Henderson,40286.77,0,0.0
+WV,Hurricane,76556.75,0,0.0
+WV,Moundsville,102295.15,0,0.0
+WV,Premier,20178.41,0,0.0
+WV,Ronceverte,87706.48,0,0.0
+WV,Shenandoah Junction,53189.96,0,0.0
+WV,Tallmansville,53238.88,0,0.0
+WV,Thomas,76379.64,0,0.0
+WV,Union,27588.73,0,0.0
+WV,White Sulphur Springs,17435.1,0,0.0
+WV,Winfield,61801.08,0,0.0
+WY,Alva,37407.89,0,0.0
+WY,Fort Washakie,130222.68,0,0.0
+WY,Freedom,59985.59,0,0.0
+WY,Jelm,31803.98,0,0.0
+WY,Lagrange,28485.33,0,0.0
+WY,Laramie,74916.89,2,1539.24
+WY,Lonetree,43998.94,0,0.0
+WY,Manville,54347.67,7,2916.03
+WY,Riverton,59005.35,0,0.0
+WY,Rock Springs,99296.55,0,0.0
+WY,Yellowstone National Park,16073.89,0,0.0
