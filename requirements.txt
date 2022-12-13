@@ -1,0 +1,16 @@
+numpy
+pandas
+findspark
+pytest
+pylint
+pytest-cov
+requests
+locust
+fire
+databricks
+databricks-cli
+databricks-sql-connector
+databricks-connect
+fastapi
+uvicorn[standard]
+streamlit
