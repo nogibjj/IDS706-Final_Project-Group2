@@ -14,6 +14,8 @@ In order to carry out our data science project, we took the following steps:
 5. We finalized our report and prepared a presentation to showcase our findings and methodology.
 
 ## Results
+Here is the table of the model results:
+
 
 ## FutureWork
 
