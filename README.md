@@ -7,7 +7,7 @@ Fraud is a pervasive issue that impacts numerous industries, and implementing ef
 ## Steps
 In order to carry out our data science project, we took the following steps:
 
-1. We located a relevant dataset on Kaggle, a popular platform for data science resources.
+1. We located a relevant dataset on Kaggle, a popular platform for data science resources. (link: https://www.kaggle.com/datasets/dermisfit/fraud-transactions-dataset)
 2. We divided the work among our team members, with each member responsible for a specific aspect of the project. This included data cleaning and exploration, as well as the use of visualization tools to gain insights.
 3. We employed machine learning models to model the data, with the goal of making predictions and identifying patterns.
 4. We utilized Swagger Documentation to query the data using various methods, including Pandas, SQL, and Dask/Spark. This allowed us to return useful information to users.
