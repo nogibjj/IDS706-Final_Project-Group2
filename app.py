@@ -79,5 +79,12 @@ async def get_fraud_count():
     return conn.querydb('SELECT COUNT(*) FROM hive_metastore.default.daily_train_cleaned_csv where Fraud_Count > 0')
 
 
+#write the function that returns the first and last date of the dataset
+@app.get("/getFirstLastDate")
+async def get_first_last_date():
+    '''Get First Last Date'''
+    conn=db.Connector()
+    return conn.querydb('SELECT MIN(Data), MAX(Data) FROM hive_metastore.default.daily_train_cleaned_csv')
+
 if __name__ == "__main__":
     uvicorn.run(app, port=8080, host="0.0.0.0")
