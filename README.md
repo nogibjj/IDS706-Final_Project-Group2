@@ -13,6 +13,10 @@ In order to carry out our data science project, we took the following steps:
 4. We utilized Swagger Documentation to query the data using various methods, including Pandas, SQL, and Dask/Spark. This allowed us to return useful information to users.
 5. We finalized our report and prepared a presentation to showcase our findings and methodology.
 
+## Project Architecture
+<img width="786" alt="image" src="https://user-images.githubusercontent.com/105465968/207503073-1de9a5a9-6f46-4541-ab30-42b4ca6b9517.png">
+
+
 ## Results
 Here is the table of the model results:
 | Model            | Accuracy |
