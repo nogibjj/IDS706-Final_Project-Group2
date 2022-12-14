@@ -57,5 +57,29 @@ async def get_max_tran_count_date():
     conn=db.Connector()
     return conn.querydb('SELECT Data FROM hive_metastore.default.daily_train_cleaned_csv where Tran_Count = (SELECT MAX(Tran_Count) FROM hive_metastore.default.daily_train_cleaned_csv) limit 1)')
 
+#write the function that returns sample dataframe
+@app.get("/getSampleData")
+async def get_sample_data():
+    '''Get Sample Data'''
+    conn=db.Connector()
+    return conn.querydb('SELECT * FROM hive_metastore.default.daily_train_cleaned_csv limit 10')
+
+
+#count the number of days where fraud count is 0
+@app.get("/getNoFraudCount")
+async def get_no_fraud_count():
+    '''Get No Fraud Count Days'''
+    conn=db.Connector()
+    return conn.querydb('SELECT COUNT(*) FROM hive_metastore.default.daily_train_cleaned_csv where Fraud_Count = 0')
+
+@app.get("/getFraudCount")
+async def get_fraud_count():
+    '''Get Fraud Count Days'''
+    conn=db.Connector()
+    return conn.querydb('SELECT COUNT(*) FROM hive_metastore.default.daily_train_cleaned_csv where Fraud_Count > 0')
+
+
+
+
 if __name__ == "__main__":
     uvicorn.run(app, port=8080, host="0.0.0.0")
