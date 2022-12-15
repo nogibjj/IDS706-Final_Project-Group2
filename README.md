@@ -21,17 +21,17 @@ In order to carry out our data science project, we took the following steps:
 Here is the table of the model results:
 | Model            | Accuracy |
 |------------------|----------|
-| Decision Tree    | 0.650    |
-| Random Forest    | 0.650    |
-| Gradient Boosting| 0.650    |
-| KNN              | 0.650    |
-| Logistic Regression| 0.650   |
-| Naive Bayes      | 0.650    |
-| RidgeClassifier  | 0.650    |
-| Perceptron       | 0.650    |
-| LabelPropagation | 0.650    |
-| MLP              | 0.650    |
-| LDA              | 0.650    |
+| Decision Tree    | 0.9753    |
+| Random Forest    | 0.9749    |
+| Gradient Boosting| 0.9742    |
+| KNN              | 0.7977    |
+| Logistic Regression| 0.7299   |
+| Naive Bayes      | 0.7830    |
+| RidgeClassifier  | 0.6282    |
+| Perceptron       | 0.7942    |
+| LabelPropagation | 0.6349    |
+| MLP              | 0.7332    |
+| LDA              | 0.6871    |
 | SGD              | 0.650    |
 
 
